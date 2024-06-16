@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/-HTML-000000?style=flat-square&logo=html5" />
   <img src="https://img.shields.io/badge/-CSS-000000?style=flat-square&logo=css3" />
   <img src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/-lua-000000?style=flat-square&logo=lua" />
   <img src="https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript" />
 </p>
 
@@ -26,7 +27,7 @@
 
 ## Habilidades
 
-- **Linguagens de Programação:** JavaScript, Python
+- **Linguagens de Programação:** JavaScript, Python e Lua
 - **Desenvolvimento Web:** HTML, CSS, React, TypeScript (básico)
 - **Outras Tecnologias:** Git, GitHub
 
